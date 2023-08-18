@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/proyectosoctavio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="octavio andré guevara salvatierra" height="30" width="40" /></a>
 <a href="https://instagram.com/octaviolovesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="octaviolovesu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/soldier2075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soldier 2075" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/soldier2075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCItGU_-fyKFcAMz6Ru68viA" height="30" width="40" /></a>
 <a href="https://discord.gg/xsoldier2075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xsoldier2075" height="30" width="40" /></a>
 </p>
 
