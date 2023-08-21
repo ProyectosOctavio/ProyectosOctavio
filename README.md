@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Octavio Guevara</h1>
-<h3 align="center">Tengo un poco de experiencia en programación de aplicaciones web y de escritorio. Me gusta programar en LUA, que es donde se crean los juegos de Roblox.</h3>
+<h3 align="center">Tengo un poco de experiencia en programación de aplicaciones web y de escritorio.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proyectosoctavio&label=Profile%20views&color=0e75b6&style=flat" alt="proyectosoctavio" /> </p>
 
