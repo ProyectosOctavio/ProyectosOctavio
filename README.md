@@ -10,6 +10,8 @@
 - 💬 Ask me about **C#,HTML,CSS,C++,LUA**
 
 - 📫 How to reach me **oags2003@gmail.com**
+  
+- https://learn.microsoft.com/es-es/users/octavioguevara-8836/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
