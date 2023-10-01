@@ -12,6 +12,7 @@
 - 📫 How to reach me **oags2003@gmail.com**
   
 - https://learn.microsoft.com/es-es/users/octavioguevara-8836/
+- https://www.freecodecamp.org/ProyectosOctavio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
