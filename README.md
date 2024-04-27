@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProyectosOctavio](https://github.com/ProyectosOctavio)
 
-- 💬 Ask me about **C#,HTML,CSS,C++,LUA**
+- 💬 Ask me about **SQL, Azure**
 
 - 📫 How to reach me **oags2003@gmail.com**
   
