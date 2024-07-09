@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, me llamo Octavio Guevara</h1>
-<h3 align="center">Tengo un poco de experiencia en programación de aplicaciones web y de escritorio.</h3>
+<h1 align="center">Hi 👋, my name is Octavio Guevara</h1>
+<h3 align="center">I have some experience in web and desktop application programming..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proyectosoctavio&label=Profile%20views&color=0e75b6&style=flat" alt="proyectosoctavio" /> </p>
 
@@ -10,9 +10,6 @@
 - 💬 Ask me about **SQL, Azure**
 
 - 📫 How to reach me **oags2003@gmail.com**
-  
-- https://learn.microsoft.com/es-es/users/octavioguevara-8836/
-- https://www.freecodecamp.org/ProyectosOctavio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
